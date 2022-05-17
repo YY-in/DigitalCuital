@@ -4,20 +4,8 @@
 		<lc:ProjectId>919fea37-30f5-4a23-a759-519151826aed</lc:ProjectId>
 		<lc:Zoom>0.96876404494382</lc:Zoom>
 		<lc:Frequency>27</lc:Frequency>
-		<lc:LogicalCircuitId>aaf4821e-2320-4350-bcd9-a2e9c60a3d74</lc:LogicalCircuitId>
+		<lc:LogicalCircuitId>ec858a02-22c6-4a07-b482-aeab0b957996</lc:LogicalCircuitId>
 	</lc:Project>
-	<lc:CollapsedCategory>
-		<lc:Name>Utils</lc:Name>
-	</lc:CollapsedCategory>
-	<lc:CollapsedCategory>
-		<lc:Name>Basic</lc:Name>
-	</lc:CollapsedCategory>
-	<lc:CollapsedCategory>
-		<lc:Name>ALU</lc:Name>
-	</lc:CollapsedCategory>
-	<lc:CollapsedCategory>
-		<lc:Name>Selecter</lc:Name>
-	</lc:CollapsedCategory>
 	<lc:LogicalCircuit>
 		<lc:LogicalCircuitId>6a228e9d-41fd-40a2-a4b0-c2e6f1f020a3</lc:LogicalCircuitId>
 		<lc:Notation>Main</lc:Notation>
